@@ -1,0 +1,5 @@
+# Ignore build files
+xmobar
+xmobar.hi
+xmobar.o
+
