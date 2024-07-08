@@ -1,6 +1,6 @@
 # xmobar-configuration
 
-Local xmobar configuration
+Local xmobar configuration. This configuration has been archived - for up to date configuration see [nixos-config](https://github.com/blakekjohnson/nixos-config).
 
 # Setup
 
